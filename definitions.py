@@ -1,0 +1,3 @@
+OCTET_LENGTH = 8
+NUM_OCTETS = 4
+
